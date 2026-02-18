@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0b2a3a" />
+    <title>מלר״ד – פרוטוקולים וכלים</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__title">
+        <div class="topbar__brand">מלר״ד</div>
+        <div class="topbar__subtitle">פרוטוקולים וכלים (מהדורה 4.1, מרץ 2025)</div>
+      </div>
+
+      <div class="topbar__controls">
+        <input id="search" class="input" type="search" placeholder="חיפוש פרוטוקול / מונח (למשל: אסתמה, Ceftriaxone)" autocomplete="off" />
+        <div class="segmented" role="tablist" aria-label="תצוגה">
+          <button id="tab-protocols" class="segmented__btn is-active" role="tab" aria-selected="true" data-tab="protocols">פרוטוקולים</button>
+          <button id="tab-tools" class="segmented__btn" role="tab" aria-selected="false" data-tab="tools">כלים</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="app" class="app" aria-live="polite"></main>
+
+    <footer class="footer">
+      <div class="footer__card">
+        <div class="footer__headline">אזהרה</div>
+        <div class="footer__text">
+          התוכן מיועד לסיוע בקבלת החלטות במלר״ד ואינו תחליף לשיקול דעת קליני. יש לוודא מינונים/עדכונים לפני כל החלטה רפואית.
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
+

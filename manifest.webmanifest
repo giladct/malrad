@@ -1,0 +1,21 @@
+{
+  "name": "מלר״ד – פרוטוקולים וכלים",
+  "short_name": "מלר״ד",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071a24",
+  "theme_color": "#0b2a3a",
+  "description": "גישה מהירה לפרוטוקולים וכלים קליניים (עפ\"י פנקס מלר\"ד).",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
