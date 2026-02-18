@@ -1,0 +1,274 @@
+{
+  "entries": [
+    {
+      "category": "זיהומיות",
+      "title": "זיהומים בילוד",
+      "startPage": 4
+    },
+    {
+      "category": "זיהומיות",
+      "title": "חום ללא מקור",
+      "startPage": 7
+    },
+    {
+      "category": "זיהומיות",
+      "title": "זיהום בדרכי השתן",
+      "startPage": 9
+    },
+    {
+      "category": "זיהומיות",
+      "title": "הלםספטי",
+      "startPage": 11
+    },
+    {
+      "category": "זיהומיות",
+      "title": "חום בילד אונקולוגי",
+      "startPage": 14
+    },
+    {
+      "category": "זיהומיות",
+      "title": "טיפול במחלות זיהומיות",
+      "startPage": 16
+    },
+    {
+      "category": "נשימתי",
+      "title": "ברונכיוליטיס",
+      "startPage": 20
+    },
+    {
+      "category": "נשימתי",
+      "title": "אסתמה",
+      "startPage": 21
+    },
+    {
+      "category": "נשימתי",
+      "title": "סטרידור",
+      "startPage": 25
+    },
+    {
+      "category": "נשימתי",
+      "title": "שאיפת גוף זר",
+      "startPage": 26
+    },
+    {
+      "category": "גסטרו",
+      "title": "גסטרואנטריטיס",
+      "startPage": 27
+    },
+    {
+      "category": "גסטרו",
+      "title": "אפנדיציטיס",
+      "startPage": 28
+    },
+    {
+      "category": "גסטרו",
+      "title": "בליעת גוף זר",
+      "startPage": 29
+    },
+    {
+      "category": "נוירולוגיה",
+      "title": "פרכוסים",
+      "startPage": 30
+    },
+    {
+      "category": "נוירולוגיה",
+      "title": "פרכוס בנוכחות חום",
+      "startPage": 31
+    },
+    {
+      "category": "נוירולוגיה",
+      "title": "שבץ",
+      "startPage": 32
+    },
+    {
+      "category": "נוירולוגיה",
+      "title": "כאב ראש",
+      "startPage": 33
+    },
+    {
+      "category": "נוירולוגיה",
+      "title": "מיגרנה",
+      "startPage": 34
+    },
+    {
+      "category": "אלקטרוליטים",
+      "title": "הפרעות במשק הנתרן",
+      "startPage": 35
+    },
+    {
+      "category": "אלקטרוליטים",
+      "title": "הפרעות במשק האשלגן",
+      "startPage": 36
+    },
+    {
+      "category": "אלקטרוליטים",
+      "title": "הפרעות במשק הסידן",
+      "startPage": 37
+    },
+    {
+      "category": "אנדוקרינולוגיה",
+      "title": "היפוגליקמיה",
+      "startPage": 38
+    },
+    {
+      "category": "אנדוקרינולוגיה",
+      "title": "קטואצידוזיס סוכרתי",
+      "startPage": 39
+    },
+    {
+      "category": "טראומה",
+      "title": "טראומה– כללי",
+      "startPage": 41
+    },
+    {
+      "category": "טראומה",
+      "title": "עלייתICP בחבלת ראש",
+      "startPage": 44
+    },
+    {
+      "category": "טראומה",
+      "title": "חבלת בטן קהה",
+      "startPage": 46
+    },
+    {
+      "category": "טראומה",
+      "title": "כוויות",
+      "startPage": 47
+    },
+    {
+      "category": "פגיעות שטחיות",
+      "title": "טטנוס",
+      "startPage": 48
+    },
+    {
+      "category": "פגיעות שטחיות",
+      "title": "חתכים",
+      "startPage": 49
+    },
+    {
+      "category": "פגיעות שטחיות",
+      "title": "חבלות ראש קלות",
+      "startPage": 52
+    },
+    {
+      "category": "פגיעות שטחיות",
+      "title": "Pulled Elbow",
+      "startPage": 53
+    },
+    {
+      "category": "פגיעות בעלי חיים",
+      "title": "נשיכת יונקים",
+      "startPage": 54
+    },
+    {
+      "category": "פגיעות בעלי חיים",
+      "title": "הכשת נחש",
+      "startPage": 55
+    },
+    {
+      "category": "פגיעות בעלי חיים",
+      "title": "עקרבים ועכבישים",
+      "startPage": 56
+    },
+    {
+      "category": "ילודים",
+      "title": "צהבת ילודים",
+      "startPage": 57
+    },
+    {
+      "category": "ילודים",
+      "title": "דמם לאחר ברית מילה",
+      "startPage": 58
+    },
+    {
+      "category": "ילודים",
+      "title": "BRUE",
+      "startPage": 59
+    },
+    {
+      "category": "שונות",
+      "title": "אנפילקסיס",
+      "startPage": 60
+    },
+    {
+      "category": "שונות",
+      "title": "הרעלת אקמול",
+      "startPage": 61
+    },
+    {
+      "category": "שונות",
+      "title": "דמםבטונסילקטומיה",
+      "startPage": 62
+    },
+    {
+      "category": "שונות",
+      "title": "ITP במיון",
+      "startPage": 63
+    },
+    {
+      "category": "פסיכו-סוציאלי",
+      "title": "הגישה לילד בסיכון",
+      "startPage": 64
+    },
+    {
+      "category": "פסיכו-סוציאלי",
+      "title": "בירור דמם מוחי מכוון",
+      "startPage": 65
+    },
+    {
+      "category": "פסיכו-סוציאלי",
+      "title": "הפרעות אכילה",
+      "startPage": 66
+    },
+    {
+      "category": "פסיכו-סוציאלי",
+      "title": "טיפול באגיטציה",
+      "startPage": 67
+    },
+    {
+      "category": "פסיכו-סוציאלי",
+      "title": "סדציה והרגעה",
+      "startPage": 68
+    },
+    {
+      "category": "החייאה",
+      "title": "מדדים חיוניים",
+      "startPage": 70
+    },
+    {
+      "category": "החייאה",
+      "title": "דום לב",
+      "startPage": 72
+    },
+    {
+      "category": "החייאה",
+      "title": "ברדיקרדיה עם דופק",
+      "startPage": 73
+    },
+    {
+      "category": "החייאה",
+      "title": "טכיקרדיה עם דופק",
+      "startPage": 74
+    },
+    {
+      "category": "החייאה",
+      "title": "הרעלתאופיואידים",
+      "startPage": 75
+    },
+    {
+      "category": "החייאה",
+      "title": "החייאה- תרופות",
+      "startPage": 76
+    },
+    {
+      "category": "שימושיים",
+      "title": "תרופות שימושיות",
+      "startPage": 79
+    },
+    {
+      "category": "שימושיים",
+      "title": "טלפונים שימושיים",
+      "startPage": 83
+    }
+  ]
+}
